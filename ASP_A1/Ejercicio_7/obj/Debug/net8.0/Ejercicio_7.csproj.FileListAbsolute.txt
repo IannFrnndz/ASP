@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.exe
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.deps.json
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.runtimeconfig.json
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.dll
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\bin\Debug\net8.0\Ejercicio_7.pdb
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.AssemblyInfo.cs
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.dll
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\refint\Ejercicio_7.dll
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.pdb
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\Ejercicio_7.genruntimeconfig.cache
+C:\Users\CAMPUSFP\source\repos\ASP_A1\Ejercicio_7\obj\Debug\net8.0\ref\Ejercicio_7.dll

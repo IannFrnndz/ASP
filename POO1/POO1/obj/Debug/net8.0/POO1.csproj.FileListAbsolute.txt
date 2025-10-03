@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\bin\Debug\net8.0\POO1.exe
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\bin\Debug\net8.0\POO1.deps.json
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\bin\Debug\net8.0\POO1.runtimeconfig.json
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\bin\Debug\net8.0\POO1.dll
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\bin\Debug\net8.0\POO1.pdb
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.AssemblyInfo.cs
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.dll
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\refint\POO1.dll
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.pdb
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\POO1.genruntimeconfig.cache
+C:\Users\CAMPUSFP\source\repos\POO1\POO1\obj\Debug\net8.0\ref\POO1.dll
