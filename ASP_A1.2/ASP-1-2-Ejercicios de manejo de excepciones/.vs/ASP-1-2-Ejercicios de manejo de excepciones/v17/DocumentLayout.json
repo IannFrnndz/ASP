@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594CC607-F352-4F2F-B55B-444A3EE09D75}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\campusfp\\desktop\\asp\\asp_a1.2\\asp-1-2-ejercicios de manejo de excepciones\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594CC607-F352-4F2F-B55B-444A3EE09D75}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9F20D0-C003-4FDC-87E2-3AC896BD3F59}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\campusfp\\desktop\\asp\\asp_a1.2\\asp-1-2-ejercicios de manejo de excepciones\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9F20D0-C003-4FDC-87E2-3AC896BD3F59}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB26ABF-D142-4274-88F4-B0F128E3D15F}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\campusfp\\desktop\\asp\\asp_a1.2\\asp-1-2-ejercicios de manejo de excepciones\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB26ABF-D142-4274-88F4-B0F128E3D15F}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C08E5-82D3-427E-883C-9DD02AC8391F}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\campusfp\\desktop\\asp\\asp_a1.2\\asp-1-2-ejercicios de manejo de excepciones\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C08E5-82D3-427E-883C-9DD02AC8391F}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio_4\\Program.cs",
+              "RelativeToolTip": "Ejercicio_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:54:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:44:40.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:54:43.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ASP_A1.2\\ASP-1-2-Ejercicios de manejo de excepciones\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:38:10.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
