@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP-1-2-Ejercicios de manejo de excepciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1b60ff972d6ca7733a9eee31d4153564812154")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3caf533bd94eebfbf4ac026b7765749ec2bf9db4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP-1-2-Ejercicios de manejo de excepciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP-1-2-Ejercicios de manejo de excepciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

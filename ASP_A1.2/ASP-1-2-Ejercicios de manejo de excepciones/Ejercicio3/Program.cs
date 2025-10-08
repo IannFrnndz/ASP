@@ -6,7 +6,9 @@ public class Program
     {
         var palabras = new List<string> { "A", "B", "C", "D", "E" };
 
-        
+        for(int i = 0; i <3; i++)
+        {
+
             Console.Write("Ingresa índice: ");
             string entrada = Console.ReadLine();
 
@@ -22,6 +24,6 @@ public class Program
             {
                 Console.WriteLine("Índice no válido");
             }
-        
+        }
     }
 }

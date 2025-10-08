@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\bin\Debug\net8.0\PruebaClase.exe
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\bin\Debug\net8.0\PruebaClase.deps.json
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\bin\Debug\net8.0\PruebaClase.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\bin\Debug\net8.0\PruebaClase.dll
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\bin\Debug\net8.0\PruebaClase.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.sourcelink.json
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.dll
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\refint\PruebaClase.dll
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\PruebaClase.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\ASP\ASP_A1\PruebaClase\obj\Debug\net8.0\ref\PruebaClase.dll
