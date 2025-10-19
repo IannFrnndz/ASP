@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60F212DE-59AF-4673-800F-3BC5F5B20561}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F212DE-59AF-4673-800F-3BC5F5B20561}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DFCBB2-9EA3-4515-A65C-6C9DFEC54E7A}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DFCBB2-9EA3-4515-A65C-6C9DFEC54E7A}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F18526E-59C9-4437-9966-8B1099BC8B18}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F18526E-59C9-4437-9966-8B1099BC8B18}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9C93A6-A301-467C-A2A1-553D7F4A450F}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9C93A6-A301-467C-A2A1-553D7F4A450F}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3685EF3D-D9E6-4665-B8CB-02F235D48719}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3685EF3D-D9E6-4665-B8CB-02F235D48719}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1AB44A-561A-4D39-8D10-6A7A380C90A6}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1AB44A-561A-4D39-8D10-6A7A380C90A6}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81413C66-495C-40C3-A379-DB50F5448DBD}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\ejsbasicoslinq_ianfernandezgamo\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81413C66-495C-40C3-A379-DB50F5448DBD}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,18 +44,92 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio1\\Program.cs*",
-              "RelativeToolTip": "Ejercicio1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T18:55:50.182Z",
+              "WhenOpened": "2025-10-19T10:16:41.83Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T10:05:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T10:00:13.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:53:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:47:16.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T09:40:37.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\EjsBasicosLINQ_IanFernandezGamo\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:55:50.182Z",
+              "EditorCaption": ""
             }
           ]
         }

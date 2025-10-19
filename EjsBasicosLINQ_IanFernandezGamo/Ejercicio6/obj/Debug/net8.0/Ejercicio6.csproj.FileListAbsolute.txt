@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\bin\Debug\net8.0\Ejercicio6.exe
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\bin\Debug\net8.0\Ejercicio6.deps.json
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\bin\Debug\net8.0\Ejercicio6.runtimeconfig.json
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\bin\Debug\net8.0\Ejercicio6.dll
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\bin\Debug\net8.0\Ejercicio6.pdb
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.sourcelink.json
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.dll
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\refint\Ejercicio6.dll
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.pdb
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\Ejercicio6.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\ASP\ASP\EjsBasicosLINQ_IanFernandezGamo\Ejercicio6\obj\Debug\net8.0\ref\Ejercicio6.dll
