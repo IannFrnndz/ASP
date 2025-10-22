@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.sourcelink.json
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\bin\Debug\net8.0\Solucion_NormalizarDatos.exe
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\bin\Debug\net8.0\Solucion_NormalizarDatos.deps.json
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\bin\Debug\net8.0\Solucion_NormalizarDatos.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\bin\Debug\net8.0\Solucion_NormalizarDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\bin\Debug\net8.0\Solucion_NormalizarDatos.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\refint\Solucion_NormalizarDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\Solucion_NormalizarDatos.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\ASP\Solucion_NormalizarDatos\Solucion_NormalizarDatos\obj\Debug\net8.0\ref\Solucion_NormalizarDatos.dll
