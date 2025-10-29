@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\users\\campusfp\\desktop\\asp\\webmvcsencilla\\webmvcrudsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\users\\campusfp\\desktop\\asp\\webmvcsencilla\\webmvcrudsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\users\\campusfp\\desktop\\asp\\webmvcsencilla\\webmvcrudsencilla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\users\\campusfp\\desktop\\asp\\webmvcsencilla\\webmvcrudsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612A8AB0-B337-4649-A047-B70400A6C224}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:34:24.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:32:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:25:26.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:23:42.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
