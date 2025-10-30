@@ -29,6 +29,69 @@ namespace WebMVCRUDSencilla.Controllers
             // Ahora devolvemos la lista estática
             return View(_listaEstudiantes);
         }
+        // U: Update (Mostrar Formulario de Edición - GET)
+        // URL: /Home/Editar/5
+        public IActionResult Editar(int id)
+        {
+            // 1. Buscar el estudiante por ID en la lista estática
+            var estudianteAEditar = _listaEstudiantes.FirstOrDefault(e => e.Id == id);
+
+            if (estudianteAEditar == null)
+            {
+                // Si no se encuentra, podrías redirigir a un error o al Index
+                return NotFound(); // Retorna un código de estado 404
+            }
+
+            // 2. Devolver la vista, pasando el objeto encontrado
+            return View(estudianteAEditar);
+        }
+
+        // D: Delete (Eliminar por ID - POST)
+        // Usamos [HttpPost] y el parámetro 'id' para evitar que se elimine con una simple URL GET
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Eliminar(int id)
+        {
+            // 1. Buscar el estudiante en la lista estática
+            var estudianteAEliminar = _listaEstudiantes.FirstOrDefault(e => e.Id == id);
+
+            if (estudianteAEliminar != null)
+            {
+                // 2. Eliminar el estudiante
+                _listaEstudiantes.Remove(estudianteAEliminar);
+            }
+
+            // 3. Redirigir al listado actualizado
+            return RedirectToAction(nameof(Index));
+        }
+
+
+        // U: Update (Procesar Formulario de Edición - POST)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Editar(Estudiante estudianteConCambios)
+        {
+            // El 'estudianteConCambios' llega con el Id y los nuevos datos del formulario.
+            if (ModelState.IsValid)
+            {
+                // 1. Buscar el índice del estudiante original en la lista estática
+                var index = _listaEstudiantes.FindIndex(e => e.Id == estudianteConCambios.Id);
+
+                if (index != -1)
+                {
+                    // 2. Reemplazar el objeto existente con el objeto actualizado del formulario
+                    _listaEstudiantes[index] = estudianteConCambios;
+
+                    // 3. Redirigir al listado
+                    return RedirectToAction(nameof(Index));
+                }
+                // Si no se encuentra, aún así devolvemos la vista con un mensaje de error o 404
+                return NotFound();
+            }
+
+            // Si el modelo no es válido, vuelve a mostrar el formulario de edición
+            return View(estudianteConCambios);
+        }
 
 
         public IActionResult Privacy()
