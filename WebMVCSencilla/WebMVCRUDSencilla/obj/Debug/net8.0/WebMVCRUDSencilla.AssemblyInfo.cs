@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMVCRUDSencilla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e7118d83b81fe3cc071d24a55542dcd379498a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c857b8712f1fd525aef2d7bdbca54099919299f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMVCRUDSencilla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMVCRUDSencilla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
