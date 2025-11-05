@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMVCSencilla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c857b8712f1fd525aef2d7bdbca54099919299f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19988c8139a6f65bc1c929d885420ec135308d75")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMVCSencilla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMVCSencilla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebMVCRUDSencilla")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PruebasEjSimulacro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19988c8139a6f65bc1c929d885420ec135308d75")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebMVCRUDSencilla")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebMVCRUDSencilla")]
+[assembly: System.Reflection.AssemblyProductAttribute("PruebasEjSimulacro")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PruebasEjSimulacro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

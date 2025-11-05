@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0838B9B6-BACB-41EB-81B2-377B53E3AAE9}|IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable.csproj|c:\\users\\campusfp\\desktop\\asp\\ianfernandezgamo-asp-a2-8-simulacro de actividad evaluable\\ianfernandezgamo-asp-a2-8-simulacro de actividad evaluable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838B9B6-BACB-41EB-81B2-377B53E3AAE9}|IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable.csproj|solutionrelative:ianfernandezgamo-asp-a2-8-simulacro de actividad evaluable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\Program.cs",
+              "RelativeDocumentMoniker": "IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\Program.cs",
+              "RelativeToolTip": "IanFernandezGamo-ASP-A2-8-Simulacro de actividad evaluable\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA7wFEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:42:15.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
