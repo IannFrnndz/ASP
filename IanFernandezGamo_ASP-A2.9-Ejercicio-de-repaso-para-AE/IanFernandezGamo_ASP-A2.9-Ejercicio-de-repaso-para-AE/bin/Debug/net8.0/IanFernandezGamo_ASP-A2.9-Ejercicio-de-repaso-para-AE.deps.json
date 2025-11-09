@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IanFernandezGamo_ASP-A2.9-Ejercicio-de-repaso-para-AE/1.0.0": {
+        "runtime": {
+          "IanFernandezGamo_ASP-A2.9-Ejercicio-de-repaso-para-AE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IanFernandezGamo_ASP-A2.9-Ejercicio-de-repaso-para-AE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

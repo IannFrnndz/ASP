@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\PruebasEjSimulacro\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\PruebasEjSimulacro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79C30CCA-BF9A-4687-9C34-3D2DA33E6770}|PruebasEjSimulacro\\PruebasEjSimulacro.csproj|c:\\users\\campusfp\\desktop\\asp\\pruebasejsimulacro\\pruebasejsimulacro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79C30CCA-BF9A-4687-9C34-3D2DA33E6770}|PruebasEjSimulacro\\PruebasEjSimulacro.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\pruebasejsimulacro\\pruebasejsimulacro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79C30CCA-BF9A-4687-9C34-3D2DA33E6770}|PruebasEjSimulacro\\PruebasEjSimulacro.csproj|solutionrelative:pruebasejsimulacro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\PruebasEjSimulacro\\PruebasEjSimulacro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\PruebasEjSimulacro\\PruebasEjSimulacro\\Program.cs",
               "RelativeDocumentMoniker": "PruebasEjSimulacro\\Program.cs",
-              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\PruebasEjSimulacro\\PruebasEjSimulacro\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\PruebasEjSimulacro\\PruebasEjSimulacro\\Program.cs",
               "RelativeToolTip": "PruebasEjSimulacro\\Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAgwG0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowG0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T09:47:20.207Z",
               "EditorCaption": ""
