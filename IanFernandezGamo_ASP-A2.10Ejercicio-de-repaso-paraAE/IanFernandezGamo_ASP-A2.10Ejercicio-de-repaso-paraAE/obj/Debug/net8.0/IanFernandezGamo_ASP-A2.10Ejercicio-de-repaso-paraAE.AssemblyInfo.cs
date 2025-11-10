@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IanFernandezGamo_ASP-A2.10Ejercicio-de-repaso-paraAE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f88be4b3fb00f1827020aa165a8420134b6386c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a2b1514113647fc7c775bc96a96a8dd5bccb09a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IanFernandezGamo_ASP-A2.10Ejercicio-de-repaso-paraAE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IanFernandezGamo_ASP-A2.10Ejercicio-de-repaso-paraAE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
