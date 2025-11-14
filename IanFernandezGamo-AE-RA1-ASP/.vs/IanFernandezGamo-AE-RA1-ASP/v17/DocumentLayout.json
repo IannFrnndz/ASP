@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-AE-RA1-ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33335877-AE90-4019-B513-816D64753595}|IanFernandezGamo-AE-RA1-ASP\\IanFernandezGamo-AE-RA1-ASP.csproj|c:\\users\\campusfp\\desktop\\asp\\ianfernandezgamo-ae-ra1-asp\\ianfernandezgamo-ae-ra1-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33335877-AE90-4019-B513-816D64753595}|IanFernandezGamo-AE-RA1-ASP\\IanFernandezGamo-AE-RA1-ASP.csproj|solutionrelative:ianfernandezgamo-ae-ra1-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-AE-RA1-ASP\\IanFernandezGamo-AE-RA1-ASP\\Program.cs",
+              "RelativeDocumentMoniker": "IanFernandezGamo-AE-RA1-ASP\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\IanFernandezGamo-AE-RA1-ASP\\IanFernandezGamo-AE-RA1-ASP\\Program.cs",
+              "RelativeToolTip": "IanFernandezGamo-AE-RA1-ASP\\Program.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAYwPgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:30:33.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
