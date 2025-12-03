@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Ejercicio_2._2.Models;
 
+
 namespace Ejercicio_2._2.Controllers
 {
-    public class CuentaController
+    public class CuentaController : Controller
     {
 
         // GET: muestra el formulario
