@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModeloVistaControlador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd93f1b3f2da0c730a6ec55cbb62144cc9a6fa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08542ed6849c0d99e12f75ac93c8a81830882ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModeloVistaControlador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModeloVistaControlador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216C3AB7-35B7-447C-BD94-324A1C5C6D5B}|Ejercicio_2.2\\Ejercicio_2.2.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\ejercicio_2.2\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C3AB7-35B7-447C-BD94-324A1C5C6D5B}|Ejercicio_2.2\\Ejercicio_2.2.csproj|solutionrelative:ejercicio_2.2\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216C3AB7-35B7-447C-BD94-324A1C5C6D5B}|Ejercicio_2.2\\Ejercicio_2.2.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\ejercicio_2.2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216C3AB7-35B7-447C-BD94-324A1C5C6D5B}|Ejercicio_2.2\\Ejercicio_2.2.csproj|solutionrelative:ejercicio_2.2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\nivel2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|solutionrelative:nivel2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\nivel2\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|solutionrelative:nivel2\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\nivel2\\views\\blog\\articulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF888FC-245B-49DB-96E6-031E2CA24D53}|Nivel2\\Nivel2.csproj|solutionrelative:nivel2\\views\\blog\\articulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A8CA15-7C94-490D-8C20-D33F540CA8DF}|ModeloVistaControlador\\ModeloVistaControlador.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\modelovistacontrolador\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A8CA15-7C94-490D-8C20-D33F540CA8DF}|ModeloVistaControlador\\ModeloVistaControlador.csproj|solutionrelative:modelovistacontrolador\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A8CA15-7C94-490D-8C20-D33F540CA8DF}|ModeloVistaControlador\\ModeloVistaControlador.csproj|c:\\users\\campusfp\\desktop\\asp\\modelovistacontrolador\\modelovistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A8CA15-7C94-490D-8C20-D33F540CA8DF}|ModeloVistaControlador\\ModeloVistaControlador.csproj|solutionrelative:modelovistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Ejercicio_2.2\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2.2\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Ejercicio_2.2\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Ejercicio_2.2\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:31:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Ejercicio_2.2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2.2\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Ejercicio_2.2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Ejercicio_2.2\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:31:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\ModeloVistaControlador\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModeloVistaControlador\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\ModeloVistaControlador\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModeloVistaControlador\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:04:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\ModeloVistaControlador\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModeloVistaControlador\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\ModeloVistaControlador\\Views\\Index.cshtml",
+              "RelativeToolTip": "ModeloVistaControlador\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:04:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Views\\Blog\\Articulo.cshtml",
+              "RelativeDocumentMoniker": "Nivel2\\Views\\Blog\\Articulo.cshtml",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Views\\Blog\\Articulo.cshtml",
+              "RelativeToolTip": "Nivel2\\Views\\Blog\\Articulo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:03:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Nivel2\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Nivel2\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:00:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nivel2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\ASP\\ModeloVistaControlador\\Nivel2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nivel2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T08:59:44.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
