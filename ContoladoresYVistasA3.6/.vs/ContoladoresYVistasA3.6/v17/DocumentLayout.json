@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\views\\bienvenida\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\views\\bienvenida\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|c:\\users\\administrador\\desktop\\asp\\asp\\contoladoresyvistasa3.6\\contoladoresyvistasa3.6\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D0EF95-01C3-452F-88AC-F1613BBD2323}|ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6.csproj|solutionrelative:contoladoresyvistasa3.6\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Info\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Views\\Info\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Info\\Index.cshtml",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Views\\Info\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T21:22:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Controllers\\InfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:19:18.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T21:12:20.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:05:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T20:58:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Bienvenida\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Views\\Bienvenida\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Views\\Bienvenida\\Index.cshtml",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Views\\Bienvenida\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T20:57:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BienvenidaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\BienvenidaController.cs",
+              "RelativeDocumentMoniker": "ContoladoresYVistasA3.6\\Controllers\\BienvenidaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ASP\\ASP\\ContoladoresYVistasA3.6\\ContoladoresYVistasA3.6\\Controllers\\BienvenidaController.cs",
+              "RelativeToolTip": "ContoladoresYVistasA3.6\\Controllers\\BienvenidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:55:41.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
